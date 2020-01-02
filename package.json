@@ -1,0 +1,8 @@
+{
+  "name": "cfx-fc-abi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yqrashawn/cfx-fc-abi.git",
+  "author": "yqrashawn <namy.19@gmail.com>",
+  "license": "MIT"
+}
